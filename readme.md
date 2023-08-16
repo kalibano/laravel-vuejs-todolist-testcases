@@ -7,6 +7,7 @@
 * Run `php artisan key:generate`
 * Run `php artisan jwt:secret`
 * Run `php artisan migrate`
+* Run `php artisan db:seed`
 * Run `npm install`
 * Run `php artisan serve`
 
