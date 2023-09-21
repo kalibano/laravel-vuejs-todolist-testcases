@@ -1,3 +1,5 @@
-*.js linguist-vendored=true
-*.vue linguist-vendored=true
-*.php linguist-vendored=true
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored=false
+CHANGELOG.md export-ignore
